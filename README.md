@@ -15,15 +15,13 @@
 my projects on netifly:
 live:https://65536355a7ddab54dc8afe18--clever-bombolone-95456c.netlify.app/
 projectone:
-live:https://bassem-adel-cs.github.io/projeceone1/
-repo:https://github.com/bassem-adel-cs/projeceone1.git
+<a  style ="display:block" href="https://bassem-adel-cs.github.io/projeceone1">live</a>
+<a  style ="display:block" href="https://github.com/bassem-adel-cs/projeceone1.git">repo</a>
 projecttwo:
-live:https://bassem-adel-cs.github.io/porject_two/
-repo:https://github.com/bassem-adel-cs/porject_two.git
+<a  style ="display:block" href="https://bassem-adel-cs.github.io/porject_two/">live</a>
+<a  style ="display:block" href="https://github.com/bassem-adel-cs/porject_two.git">repo</a>
          ______________________________________________________
      
-
-
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
