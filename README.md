@@ -12,6 +12,19 @@
 
 <a href="www.linkedin.com/in/bassem-adel-121b88266" target="_blank"><img src="https://img.shields.io/badge/-BASSEMADEL-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
+my projects on netifly:
+live:https://65536355a7ddab54dc8afe18--clever-bombolone-95456c.netlify.app/
+        ______________________________________________________
+my projects on git-hub:
+projectone:
+live:https://bassem-adel-cs.github.io/projeceone1/
+repo:https://github.com/bassem-adel-cs/projeceone1.git
+projecttwo:
+live:https://bassem-adel-cs.github.io/porject_two/
+repo:https://github.com/bassem-adel-cs/porject_two.git
+         ______________________________________________________
+     
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
