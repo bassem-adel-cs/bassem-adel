@@ -14,6 +14,7 @@
 
 <div>my projects on netifly:</div>
 <a  style ="display:block" href="https://65536355a7ddab54dc8afe18--clever-bombolone-95456c.netlify.app/">LIVE</a>
+_________________________
 <div>my projects on git:</div>
 <div>projectone:</div>
 <div><a  style ="display:block" href="https://bassem-adel-cs.github.io/projeceone1">LIVE</a></div
@@ -21,7 +22,7 @@
 <div>projecttwo:</div>
 <div><a  style ="display:block" href="https://bassem-adel-cs.github.io/porject_two/">LIVE</a></div>
 <div><a  style ="display:block" href="https://github.com/bassem-adel-cs/porject_two.git">REPO</a></div>
-         ______________________________________________________
+       
      
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
