@@ -12,14 +12,14 @@
 
 <a href="www.linkedin.com/in/bassem-adel-121b88266" target="_blank"><img src="https://img.shields.io/badge/-BASSEMADEL-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-my projects on netifly:
-live:https://65536355a7ddab54dc8afe18--clever-bombolone-95456c.netlify.app/
-projectone:
-<a  style ="display:block" href="https://bassem-adel-cs.github.io/projeceone1">live</a>
-<a  style ="display:block" href="https://github.com/bassem-adel-cs/projeceone1.git">repo</a>
-projecttwo:
-<a  style ="display:block" href="https://bassem-adel-cs.github.io/porject_two/">live</a>
-<a  style ="display:block" href="https://github.com/bassem-adel-cs/porject_two.git">repo</a>
+<div>my projects on netifly:</div>
+<div>live:https://65536355a7ddab54dc8afe18--clever-bombolone-95456c.netlify.app/</div>
+<div>projectone:</div>
+<div><a  style ="display:block" href="https://bassem-adel-cs.github.io/projeceone1">live</a></div
+<div><a  style ="display:block" href="https://github.com/bassem-adel-cs/projeceone1.git">repo</a></div>
+<div>projecttwo:</div>
+<div><a  style ="display:block" href="https://bassem-adel-cs.github.io/porject_two/">live</a></div>
+<div><a  style ="display:block" href="https://github.com/bassem-adel-cs/porject_two.git">repo</a></div>
          ______________________________________________________
      
 ### 🛠 &nbsp;Tech Stack
